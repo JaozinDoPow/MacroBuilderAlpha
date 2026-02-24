@@ -14,13 +14,12 @@ Users can build sequences of actions and configure them to:
 
 ## Technologies
 - C#
-- .NET (specify version, ex: .NET 8)
-- (WinForms / WPF – choose one)
+- .NET 8
+-  WPF
 
 ## How to Run
 - Download the latest release
 - Run MacroBuilder.exe
-(or explain how to build if you don’t provide a compiled version)
 
 ## Status
 In development
