@@ -14,7 +14,7 @@ Users can build sequences of actions and configure them to:
 
 ## Technologies
 - C#
-- .NET 8
+- .NET 10
 -  WPF
 
 ## How to Run
